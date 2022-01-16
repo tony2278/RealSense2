@@ -69,21 +69,6 @@ pcl_io_ply_release.lib
 pcl_io_release.lib
 
 
+Please don't use this for any production purposes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Created by Tony2278
